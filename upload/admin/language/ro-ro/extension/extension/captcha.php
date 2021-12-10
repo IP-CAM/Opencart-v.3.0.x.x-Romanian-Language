@@ -1,15 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Captchas';
+$_['heading_title']    = 'Captcha (Cod de Verificare)';
 
 // Text
-$_['text_success']     = 'Success: You have modified captchas!';
-$_['text_list']        = 'Captcha List';
+$_['text_success']     = 'Succes: Ai modificat extensiile captcha!';
 
 // Column
-$_['column_name']      = 'Captcha Name';
+$_['column_name']      = 'Nume extensie Captcha';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify captchas!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensiile captcha!';

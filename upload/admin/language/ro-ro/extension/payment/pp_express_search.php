@@ -22,7 +22,7 @@ $_['column_currency']		   = 'Currency';
 $_['column_amount']			   = 'Amount';
 $_['column_fee']			   = 'Fee';
 $_['column_netamt']		       = 'Net Amount';
-$_['column_action']		       = 'Action';
+$_['column_action']		       = 'Acțiune';
 
 // Entry
 $_['entry_trans_all']		   = 'All';

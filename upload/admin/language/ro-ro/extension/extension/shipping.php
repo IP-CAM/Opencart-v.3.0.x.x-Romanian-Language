@@ -1,16 +1,15 @@
 <?php
 // Heading
-$_['heading_title']     = 'Shipping';
+$_['heading_title']     = 'Metode de livrare';
 
 // Text
-$_['text_success']      = 'Success: You have modified shipping!';
-$_['text_list']         = 'Shipping List';
+$_['text_success']      = 'Succes: Ai modificat metodele de livrare!';
 
 // Column
-$_['column_name']       = 'Shipping Method';
+$_['column_name']       = 'Nume';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Ordine sortare';
+$_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
+$_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica metodele de livrare!';

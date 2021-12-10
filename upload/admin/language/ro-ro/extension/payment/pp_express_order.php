@@ -24,7 +24,7 @@ $_['column_type']			 = 'Payment Type';
 $_['column_status']			 = 'Status';
 $_['column_pending_reason']	 = 'Pending Reason';
 $_['column_date_added']		 = 'Date Added';
-$_['column_action']			 = 'Action';
+$_['column_action']			 = 'Acțiune';
 
 // Entry
 $_['entry_capture_amount']	 = 'Capture amount';

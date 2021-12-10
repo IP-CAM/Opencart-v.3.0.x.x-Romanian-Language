@@ -5,16 +5,16 @@ $_['heading_title']     = 'Grupuri de clienți';
 // Text
 $_['text_success']      = 'Succes: Ai modificat grupurile de clienți!';
 $_['text_list']         = 'Listă Grupuri de clienți';
-$_['text_add']          = 'Adăugare Grup de clienți';
-$_['text_edit']         = 'Editare Grup de clienți';
+$_['text_add']          = 'Adăugare Grup clienți';
+$_['text_edit']         = 'Editare Grup clienți';
 
 // Column
-$_['column_name']       = 'Nume Grup de clienți';
+$_['column_name']       = 'Nume Grup clienți';
 $_['column_sort_order'] = 'Ordine sortare';
 $_['column_action']     = 'Acțiune';
 
 // Entry
-$_['entry_name']        = 'Nume Grup de clienți';
+$_['entry_name']        = 'Nume Grup clienți';
 $_['entry_description'] = 'Descriere';
 $_['entry_approval']    = 'Aprobare clienți noi';
 $_['entry_sort_order']  = 'Ordine sortare';

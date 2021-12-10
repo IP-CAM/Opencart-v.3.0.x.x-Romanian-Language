@@ -13,7 +13,7 @@ $_['text_ip_list']       = 'Fraud IP Address List';
 $_['column_ip']          = 'IP';
 $_['column_total']       = 'Total Accounts';
 $_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Acțiune';
 
 // Entry
 $_['entry_ip']           = 'IP';

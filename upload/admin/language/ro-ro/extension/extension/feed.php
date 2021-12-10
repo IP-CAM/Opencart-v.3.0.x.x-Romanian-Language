@@ -1,15 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'Feed-uri';
 
 // Text
-$_['text_success']     = 'Success: You have modified feeds!';
-$_['text_list']        = 'Feed List';
+$_['text_success']     = 'Succes: Ai modificat feed-urile!';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
+$_['column_name']      = 'Nume Feed';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Acțiune';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica feed-urile!';

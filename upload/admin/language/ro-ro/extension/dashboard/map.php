@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'World Map';
+$_['heading_title']    = 'Harta lumii';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard map!';
-$_['text_edit']        = 'Edit Dashboard Map';
-$_['text_order']       = 'Orders';
-$_['text_sale']        = 'Sales';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Success: Ai modificat harta panoului general!';
+$_['text_edit']        = 'Editare hartă Panou General';
+$_['text_order']       = 'Comenzi';
+$_['text_sale']        = 'Vânzări';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_width']      = 'Lățime';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard map!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica harta panoului general!';

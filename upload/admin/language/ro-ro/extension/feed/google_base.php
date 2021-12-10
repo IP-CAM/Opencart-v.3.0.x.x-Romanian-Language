@@ -11,7 +11,7 @@ $_['text_import']            = 'To download the latest Google category list by <
 // Column
 $_['column_google_category'] = 'Google Category';
 $_['column_category']        = 'Category';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Acțiune';
 
 // Entry
 $_['entry_google_category']  = 'Google Category';

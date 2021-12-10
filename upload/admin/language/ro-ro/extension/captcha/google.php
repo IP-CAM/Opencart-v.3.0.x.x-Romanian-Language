@@ -3,17 +3,17 @@
 $_['heading_title']    = 'Google reCAPTCHA';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Google reCAPTCHA!';
-$_['text_edit']        = 'Edit Google reCAPTCHA';
-$_['text_signup']      = 'Go to <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> and register your website.';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat extensia Google reCAPTCHA!';
+$_['text_edit']        = 'Editare Google reCAPTCHA';
+$_['text_signup']      = 'Accesează pagina <a href="https://www.google.com/recaptcha/about/" target="_blank"><u>Google reCAPTCHA</u></a> și înregistrează site-ul tău.';
 
 // Entry
-$_['entry_key']        = 'Site key';
-$_['entry_secret']     = 'Secret key';
+$_['entry_key']        = 'Cheia site-ului';
+$_['entry_secret']     = 'Cheia secretă';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google reCAPTCHA!';
-$_['error_key']        = 'Key required!';
-$_['error_secret']     = 'Secret required!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensia Google reCAPTCHA!';
+$_['error_key']        = 'Cheia site-ului obligatorie!';
+$_['error_secret']     = 'Cheia secretă obligatorie!';

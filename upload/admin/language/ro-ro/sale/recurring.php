@@ -22,7 +22,7 @@ $_['text_email']                           = 'Email';
 $_['text_date_added']                      = 'Date Added';
 $_['text_order_status']                    = 'Order Status';
 $_['text_type']                            = 'Type';
-$_['text_action']                          = 'Action';
+$_['text_action']                          = 'Acțiune';
 $_['text_product']                         = 'Product';
 $_['text_quantity']                        = 'Quantity';
 $_['text_amount']                          = 'Amount';
@@ -57,7 +57,7 @@ $_['column_date_added']                     = 'Date Added';
 $_['column_status']                         = 'Status';
 $_['column_amount']                         = 'Amount';
 $_['column_type']                           = 'Type';
-$_['column_action']                         = 'Action';
+$_['column_action']                         = 'Acțiune';
 
 // Entry
 $_['entry_order_recurring_id']             = 'Recurring ID';
@@ -67,7 +67,7 @@ $_['entry_customer']                       = 'Customer';
 $_['entry_date_added']                     = 'Date Added';
 $_['entry_status']                         = 'Status';
 $_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
+$_['entry_action']                         = 'Acțiune';
 $_['entry_email']                          = 'Email';
 $_['entry_description']                    = 'Recurring Profile\'s description';
 $_['entry_product']                        = 'Product';

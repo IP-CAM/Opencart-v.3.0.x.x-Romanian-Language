@@ -78,7 +78,7 @@ $_['column_first_payment']          = 'First Payment Due';
 $_['column_last_payment']           = 'Last Payment Due';
 $_['column_status']                 = 'Status';
 $_['column_date_added']             = 'Date Added';
-$_['column_action']                 = 'Action';
+$_['column_action']                 = 'Acțiune';
 
 // Entry
 $_['entry_membership_id']           = 'Lay-Buys Membership ID';

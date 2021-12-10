@@ -1,16 +1,15 @@
 <?php
 // Heading
-$_['heading_title']     = 'Reports';
+$_['heading_title']     = 'Rapoarte';
 
 // Text
-$_['text_success']      = 'Success: You have modified reports!';
-$_['text_list']         = 'Reports List';
+$_['text_success']      = 'Succes: Ai modificat rapoartele!';
 
 // Column
-$_['column_name']       = 'Report Name';
+$_['column_name']       = 'Nume';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Ordine Sortare';
+$_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reports!';
+$_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica rapoartele!';

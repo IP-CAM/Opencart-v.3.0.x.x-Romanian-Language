@@ -2,16 +2,16 @@
 $_['heading_title']    = 'Google Analytics';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']	   = 'Success: You have modified Google Analytics!';
-$_['text_edit']        = 'Edit Google Analytics';
-$_['text_signup']      = 'Login to your <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> account and after creating your website profile copy and paste the analytics code into this field.';
-$_['text_default']     = 'Default';
+$_['text_extension']   = 'Extensii';
+$_['text_success']	   = 'Succes: Ai modificat extensia Google Analytics!';
+$_['text_edit']        = 'Editare Google Analytics';
+$_['text_signup']      = 'Autentifică-te în contul tău de <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a>, creează un profil pentru acest site, apoi inserează codul obținut în câmpul de mai jos.';
+$_['text_default']     = 'Implicit';
 
 // Entry
-$_['entry_code']       = 'Google Analytics Code';
+$_['entry_code']       = 'Cod Google Analytics';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Analytics!';
-$_['error_code']	   = 'Code required!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensia Google Analytics!';
+$_['error_code']	   = 'Cod obligatoriu!';

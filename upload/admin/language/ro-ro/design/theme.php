@@ -9,7 +9,7 @@ $_['text_store']        = 'Alege magazinul';
 $_['text_template']     = 'Alege o temă';
 $_['text_default']      = 'Implicit';
 $_['text_history']      = 'Istoric Temă';
-$_['text_twig']         = 'Editorul de temă folosește limbajul șablonului Twig. Poți citi despre <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">sintaxa Twig aici</a>.';
+$_['text_twig']         = 'Editorul de temă folosește limbajul șablonului Twig. Poți citi despre <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">sintaxa Twig aici</a>.';
 
 // Column
 $_['column_store']      = 'Magazin';

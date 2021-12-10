@@ -5,15 +5,15 @@ $_['heading_title']    = 'Grupuri de utilizatori';
 // Text
 $_['text_success']     = 'Succes: Ai modificat grupurile de utilizatori!';
 $_['text_list']        = 'Grup de utilizatori';
-$_['text_add']         = 'Adăugare Grup de utilizatori';
-$_['text_edit']        = 'Editare  Grup de utilizatori';
+$_['text_add']         = 'Adăugare Grup utilizatori';
+$_['text_edit']        = 'Editare  Grup utilizatori';
 
 // Column
-$_['column_name']      = 'Nume Grup de utilizatori';
+$_['column_name']      = 'Nume Grup utilizatori';
 $_['column_action']    = 'Acțiune';
 
 // Entry
-$_['entry_name']       = 'Nume Grup de utilizatori';
+$_['entry_name']       = 'Nume Grup utilizatori';
 $_['entry_access']     = 'Poate Accesa';
 $_['entry_modify']     = 'Poate Modifica';
 

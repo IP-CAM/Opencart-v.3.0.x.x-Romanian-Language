@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total Sales';
+$_['heading_title']    = 'Total vânzări';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard sales!';
-$_['text_edit']        = 'Edit Dashboard Sales';
-$_['text_view']        = 'View more...';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat panoul Total Vânzări!';
+$_['text_edit']        = 'Editare panou Total vânzări';
+$_['text_view']        = 'Vezi mai mult...';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+$_['entry_sort_order'] = 'Ordine Sortare';
+$_['entry_width']      = 'Lățime';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard sales!';
+$_['error_permission'] = 'Avertisment: Nu ai permisiunea de a modifica panoul total vânzări!';
