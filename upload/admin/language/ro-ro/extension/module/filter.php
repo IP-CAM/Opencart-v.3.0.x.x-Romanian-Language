@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Filter';
+$_['heading_title']    = 'Filtre';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified filter module!';
-$_['text_edit']        = 'Edit Filter Module';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat modulul Filtre!';
+$_['text_edit']        = 'Editare modul Filtre';
 
 // Entry
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify filter module!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica modulul Filtre!';

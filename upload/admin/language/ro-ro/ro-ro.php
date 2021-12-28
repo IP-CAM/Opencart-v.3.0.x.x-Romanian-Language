@@ -157,6 +157,7 @@ $_['tab_activity']                  = 'Activitate Recentă';
 $_['tab_recurring']                 = 'Abonamente';
 $_['tab_action']                    = 'Acțiuni';
 $_['tab_google']                    = 'Google';
+$_['tab_report']                    = 'Raport';
 
 // Error
 $_['error_exception']               = 'Cod de eroare(%s): %s în %s la linia %s';

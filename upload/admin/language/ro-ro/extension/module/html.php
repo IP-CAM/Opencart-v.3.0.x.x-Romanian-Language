@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'HTML Content';
+$_['heading_title']     = 'Conţinut HTML';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified HTML Content module!';
-$_['text_edit']         = 'Edit HTML Content Module';
+$_['text_extension']    = 'Extensii';
+$_['text_success']      = 'Succes: Ai modificat modulul Conținut HTML!';
+$_['text_edit']         = 'Editare modul Conținut HTML';
 
 // Entry
-$_['entry_name']        = 'Module Name';
-$_['entry_title']       = 'Heading Title';
-$_['entry_description'] = 'Description';
+$_['entry_name']        = 'Nume Modul';
+$_['entry_title']       = 'Titlu Frontend';
+$_['entry_description'] = 'Descriere';
 $_['entry_status']      = 'Status';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify HTML Content module!';
-$_['error_name']        = 'Module Name must be between 3 and 64 characters!';
+$_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica modulul Conținut HTML!';
+$_['error_name']        = 'Numele modulului trebuie să aibă între 3 și 64 de caractere!';

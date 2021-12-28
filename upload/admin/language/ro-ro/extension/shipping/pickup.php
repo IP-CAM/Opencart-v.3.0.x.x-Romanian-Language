@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Pickup From Store';
+$_['heading_title']    = 'Ridică din magazin';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified pickup from store!';
-$_['text_edit']        = 'Edit Pickup From Store Shipping';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat livrarea Ridică din magazin!';
+$_['text_edit']        = 'Editare livrare Ridică din magazin';
 
 // Entry
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'Zona Geografică';
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify pickup from store!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica livrarea Ridică din magazin!';

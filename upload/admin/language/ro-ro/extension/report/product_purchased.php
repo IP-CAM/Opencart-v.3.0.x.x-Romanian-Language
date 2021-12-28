@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']      = 'Products Purchased Report';
+$_['heading_title']      = 'Produse achiziționate';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_edit']          = 'Edit Products Purchased Report';
-$_['text_success']       = 'Success: You have modified products purchased report!';
-$_['text_filter']        = 'Filter';
-$_['text_all_status']    = 'All Statuses';
+$_['text_extension']     = 'Extensii';
+$_['text_edit']          = 'Editare raport Produse achiziționate';
+$_['text_success']       = 'Succes: Ai modificat raportul Produse achiziționate!';
+$_['text_filter']        = 'Filtru';
+$_['text_all_status']    = 'Toate statusurile';
 
 // Column
-$_['column_date_start']  = 'Date Start';
-$_['column_date_end']    = 'Date End';
-$_['column_name']        = 'Product Name';
+$_['column_date_start']  = 'Data Începerii';
+$_['column_date_end']    = 'Data Încheierii';
+$_['column_name']        = 'Nume Produs';
 $_['column_model']       = 'Model';
-$_['column_quantity']    = 'Quantity';
+$_['column_quantity']    = 'Cantitate';
 $_['column_total']       = 'Total';
 
 // Entry
-$_['entry_date_start']   = 'Date Start';
-$_['entry_date_end']     = 'Date End';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_date_start']   = 'Data Începerii';
+$_['entry_date_end']     = 'Data Încheierii';
+$_['entry_order_status'] = 'Status Comandă';
 $_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_sort_order']   = 'Ordine Sortare';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify products purchased report!';
+$_['error_permission']   = 'Avertizare: Nu ai permisiunea de a modifica raportul Produse achiziționate!';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store';
+$_['heading_title']    = 'Magazine';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified store module!';
-$_['text_edit']        = 'Edit Store Module';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat modulul Magazine!';
+$_['text_edit']        = 'Editare modul Magazine';
 
 // Entry
-$_['entry_admin']      = 'Admin Users Only';
+$_['entry_admin']      = 'Vizibil doar pentru adinistratori';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica modulul Magazine!';

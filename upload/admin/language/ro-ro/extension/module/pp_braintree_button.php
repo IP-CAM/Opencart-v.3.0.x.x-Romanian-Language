@@ -3,7 +3,7 @@
 $_['heading_title']    = 'PayPal (Powered by Braintree) Button';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Extensii';
 $_['text_success']     = 'Success: You have modified PayPal (Powered by Braintree) Button module!';
 $_['text_edit']        = 'Edit PayPal (Powered by Braintree) Button Module';
 $_['text_info']        = 'The button will <u>not</u> appear under certain conditions:';

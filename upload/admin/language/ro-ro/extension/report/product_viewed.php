@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Products Viewed Report';
+$_['heading_title']    = 'Produse vizualizate';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Products Viewed Report';
-$_['text_success']     = 'Success: You have reset the products viewed report!';
+$_['text_extension']   = 'Extensii';
+$_['text_edit']        = 'Editare raport Produse vizualizate';
+$_['text_success']     = 'Succes: Ai modificat raportul Produse vizualizate!';
 
 // Column
-$_['column_name']      = 'Product Name';
+$_['column_name']      = 'NumeProdus';
 $_['column_model']     = 'Model';
-$_['column_viewed']    = 'Viewed';
-$_['column_percent']   = 'Percent';
+$_['column_viewed']    = 'Vizualizări';
+$_['column_percent']   = 'Procent';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify products viewed report!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica raportul Produse vizualizate!';

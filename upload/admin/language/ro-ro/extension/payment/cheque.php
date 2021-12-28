@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']      = 'Cheque / Money Order';
+$_['heading_title']      = 'CEC / Mandat poștal';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified cheque / money order account details!';
-$_['text_edit']          = 'Edit Cheque / Money Order';
+$_['text_extension']     = 'Extensii';
+$_['text_success']       = 'Succes: Ai modificat detaliile CEC-ului / Mandatului poștal!';
+$_['text_edit']          = 'Editare CEC / Mandat poștal';
 
 // Entry
-$_['entry_payable']      = 'Payable To';
+$_['entry_payable']      = 'Plătibil către';
 $_['entry_total']        = 'Total';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']     = 'Geo Zone';
+$_['entry_order_status'] = 'Status comandă';
+$_['entry_geo_zone']     = 'Zona Geografică';
 $_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_sort_order']   = 'Ordine Sortare';
 
 // Help
-$_['help_total']         = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']         = 'Totalul pe care comanda trebuie să-l atingă înainte ca această metodă de plată să devină activă.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment cheque / money order!';
-$_['error_payable']      = 'Payable To Required!';
+$_['error_permission']   = 'Avertizare: Nu ai permisiunea de modifica metoda de plată CEC / Mandat poștal!';
+$_['error_payable']      = 'Plătibil către este obligatoriu!';

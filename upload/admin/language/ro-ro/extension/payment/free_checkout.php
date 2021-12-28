@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']      = 'Free Checkout';
+$_['heading_title']      = 'Livrare gratuită';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
-$_['text_edit']          = 'Edit Free Checkout';
+$_['text_extension']     = 'Extensii';
+$_['text_success']       = 'Succes: Ai modificat metoda de plată Livrare gratuită!';
+$_['text_edit']          = 'Editare Livrare gratuită';
 
 // Entry
-$_['entry_order_status'] = 'Order Status';
+$_['entry_order_status'] = 'Status Comandă';
 $_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_sort_order']   = 'Ordine Sortare';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'Avertizare: Nu ai permisiunea de a modifica metoda de plată Livrare gratuită!';

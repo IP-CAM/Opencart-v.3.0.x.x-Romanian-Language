@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Transaction Report';
+$_['heading_title']         = 'Tranzacții clienți';
 
 // Text
-$_['text_extension']        = 'Extensions';
-$_['text_edit']             = 'Edit Customer Transaction Report';
-$_['text_success']          = 'Success: You have modified customer credit report!';
-$_['text_filter']           = 'Filter';
+$_['text_extension']        = 'Extensii';
+$_['text_edit']             = 'Editare Tranzacții clienți';
+$_['text_success']          = 'Succes: Ai modificat raportul Tranzacții clienți!';
+$_['text_filter']           = 'Filtru';
 
 // Column
-$_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_customer']       = 'Nume Client';
+$_['column_email']          = 'E-mail';
+$_['column_customer_group'] = 'Grup Client';
 $_['column_status']         = 'Status';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Acțiune';
 
 // Entry
-$_['entry_date_start']      = 'Date Start';
-$_['entry_date_end']        = 'Date End';
-$_['entry_customer']        = 'Customer';
+$_['entry_date_start']      = 'Data Începerii';
+$_['entry_date_end']        = 'Data Încheierii';
+$_['entry_customer']        = 'Client';
 $_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Ordine Sortare';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer credit report!';
+$_['error_permission']      = 'Avertizare: Nu ai permisiunea de a modifica raportul Tranzacții clienți!';

@@ -3,7 +3,7 @@
 $_['heading_title']    					= 'PayPal Smart Button';
 
 // Text
-$_['text_extensions']   				= 'Extensions';
+$_['text_extensions']   				= 'Extensii';
 $_['text_edit']        					= 'Edit PayPal Smart Button Module';
 $_['text_general']				 	 	= 'General';
 $_['text_product_page']					= 'Product Page';
