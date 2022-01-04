@@ -107,7 +107,7 @@ $_['help_points']               = 'Folosește minus pentru a șterge din puncte'
 // Error
 $_['error_warning']             = 'Avertizare: Verifică formularul pentru erori!';
 $_['error_permission']          = 'Avertizare: Nu ai permisiunea de a modifica clienții!';
-$_['error_exists']              = 'Avertizare: Adresa de e-mail este deja înregistrată!';
+$_['error_exists']              = 'Avertizare: Pe această adresă de e-mail există deja un cont!';
 $_['error_firstname']           = 'Prenumele trebuie să aibă între 1 și 32 de caractere!';
 $_['error_lastname']            = 'Numele trebuie să aibă între 1 și 32 de caractere!';
 $_['error_email']               = 'Adresa de e-mail nu pare a fi validă!';

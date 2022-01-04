@@ -17,7 +17,7 @@ $_['text_review']           = 'Opinii în așteptarea moderării';
 
 // Column
 $_['column_name']           = 'Nume statistică';
-$_['column_value']	        = 'Valoare';
+$_['column_value']          = 'Valoare';
 $_['column_action']         = 'Acțiune';
 
 // Error

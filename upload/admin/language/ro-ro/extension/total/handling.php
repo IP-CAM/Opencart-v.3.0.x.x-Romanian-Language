@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Taxă de Manipulare';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat extensia Taxă de Manipulare!';
+$_['text_edit']        = 'Editare Taxă de Manipulare';
 
 // Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
+$_['entry_total']      = 'Total Comandă';
+$_['entry_fee']        = 'Comision';
+$_['entry_tax_class']  = 'Clasa de Taxe';
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+$_['help_total']       = 'Totalul pe care comanda trebuie să-l atingă înainte ca această opțiune să devină activă.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensia Taxă de Manipulare!';

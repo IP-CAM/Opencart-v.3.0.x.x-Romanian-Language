@@ -28,4 +28,4 @@ $_['entry_status']          = 'Status';
 $_['entry_sort_order']      = 'Ordine Sortare';
 
 // Error
-$_['error_permission']      = 'Avertisment: Nu ai permisiunea de a modifica raportul Comenzi clienți!';
+$_['error_permission']      = 'Avertizare: Nu ai permisiunea de a modifica raportul Comenzi clienți!';

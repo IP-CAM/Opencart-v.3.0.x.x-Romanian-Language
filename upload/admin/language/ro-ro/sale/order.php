@@ -89,7 +89,7 @@ $_['entry_lastname']             = 'Nume';
 $_['entry_email']                = 'E-mail';
 $_['entry_telephone']            = 'Telefon';
 $_['entry_address']              = 'Alege adresa';
-$_['entry_company']              = 'Firmă';
+$_['entry_company']              = 'Denumire Firmă';
 $_['entry_address_1']            = 'Adresa 1';
 $_['entry_address_2']            = 'Adresa 2';
 $_['entry_city']                 = 'Oraș';
@@ -124,7 +124,7 @@ $_['entry_date_added']           = 'Data Adăugării';
 $_['entry_date_modified']        = 'Data Modificării';
 
 // Help
-$_['help_override']              = 'Dacă comanda clientului este blocată de la modificarea statusului comenzii din cauza unei extensii anti-fraudă, atunci activează această opțiune.';
+$_['help_override']              = 'Dacă această comandă este blocată de un filtru anti-fraudă, prin selectarea acestei opțiuni vei ignora filtrul anti-fraudă și vei putea modifica statusul comenzii.';
 
 // Error
 $_['error_warning']              = 'Avertizare: Verifica formularul pentru erori!';

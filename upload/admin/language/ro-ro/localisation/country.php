@@ -27,7 +27,7 @@ $_['entry_postcode_required'] = 'Cod poștal obligatoriu';
 $_['entry_status']            = 'Status';
 
 // Help
-$_['help_address_format']     = 'Prenume = {firstname}<br />Nume = {lastname}<br />Nume firmă = {company}<br />Adresa 1 = {address_1}<br />Adresa 2 = {address_2}<br />Oraș = {city}<br />Cod poștal = {postcode}<br />Zonă = {zone}<br />Cod Zonă = {zone_code}<br />Țara = {country}';
+$_['help_address_format']     = 'Prenume = {firstname}<br />Nume = {lastname}<br />Denumire Firmă = {company}<br />Adresa 1 = {address_1}<br />Adresa 2 = {address_2}<br />Oraș = {city}<br />Cod poștal = {postcode}<br />Zonă = {zone}<br />Cod Zonă = {zone_code}<br />Țara = {country}';
 
 // Error
 $_['error_permission']        = 'Avertizare: Nu ai permisiunea de a modifica țările!';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'European Central Bank Currency Converter';
+$_['heading_title']    = 'Convertor valutar Banca Centrală Europeană';
 
 // Text
 $_['text_extension']   = 'Extensii';
-$_['text_success']     = 'Success: You have modified fixer ECB rates!';
-$_['text_edit']        = 'Edit European Central Bank';
-$_['text_support']     = 'This extension requires at EUR currency to be available currency option.';
+$_['text_success']     = 'Succes: Ai modificat convertorul valutar BCE!';
+$_['text_edit']        = 'Editare Banca Centrală Europeană';
+$_['text_support']     = 'Această extensie necesită ca moneda EUR să fie disponibilă în lista de valute.';
 
 // Entry
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify ECB currency rates!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica convertorul valutar BCE!';

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Credit';
+$_['heading_title']    = 'Cupon de discount';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified store credit total!';
-$_['text_edit']        = 'Edit Store Credit Total';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat extensia Cupon!';
+$_['text_edit']        = 'Editare Cupon';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store credit total!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensia Cupon!';

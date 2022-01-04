@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Harta lumii';
+$_['heading_title']    = 'Harta Lumii';
 
 // Text
 $_['text_extension']   = 'Extensii';

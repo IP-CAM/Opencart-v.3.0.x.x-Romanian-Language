@@ -12,7 +12,7 @@ $_['text_website']        = 'Site Web:';
 $_['text_customer_group'] = 'Grup client:';
 $_['text_firstname']      = 'Prenume:';
 $_['text_lastname']       = 'Nume:';
-$_['text_company']        = 'Date firmă:';
+$_['text_company']        = 'Denumire Firmă:';
 $_['text_email']          = 'E-Mail:';
 $_['text_telephone']      = 'Telefon:';
 

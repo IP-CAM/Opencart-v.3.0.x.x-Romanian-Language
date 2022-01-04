@@ -15,7 +15,7 @@ $_['entry_password']  = 'Noua parolă';
 $_['entry_confirm']   = 'Confirmă noua parolă';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
+$_['error_email']     = 'Avertizare: Adresa de e-mail nu a fost găsită în baza noastră de date, încercați din nou!';
+$_['error_approved']  = 'Avertizare: Contul dvs. necesită aprobare înainte de a vă putea autentifica.';
 $_['error_password']  = 'Parola trebuie să aibă între 4 și 20 caractere!';
 $_['error_confirm']   = 'Parola și confirmarea parolei nu se potrivesc!';

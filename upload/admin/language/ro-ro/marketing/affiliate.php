@@ -11,7 +11,7 @@ $_['text_affiliate']            = 'Detalii Afiliat';
 $_['text_payment']              = 'Detalii de plată';
 $_['text_other']                = 'Altceva';
 $_['text_balance']              = 'Sold';
-$_['text_cheque']               = 'CEC bancar';
+$_['text_cheque']               = 'CEC';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Transfer bancar';
 $_['text_history']              = 'Istoric';
@@ -23,7 +23,7 @@ $_['text_filter']               = 'Filtru';
 
 // Column
 $_['column_name']               = 'Nume Client';
-$_['column_tracking']           = 'Cod Urmărire';
+$_['column_tracking']           = 'Urmărire';
 $_['column_commission']         = 'Comision';
 $_['column_balance']            = 'Sold';
 $_['column_status']             = 'Status';
@@ -34,14 +34,14 @@ $_['column_country']            = 'Țara';
 $_['column_date_added']         = 'Data Adăugării';
 $_['column_comment']            = 'Comentarii';
 $_['column_description']        = 'Descriere';
-$_['column_amount']             = 'Suma';
+$_['column_amount']             = 'Sumă';
 $_['column_action']             = 'Acţiune';
 
 // Entry
 $_['entry_customer']            = 'Client';
 $_['entry_status']              = 'Status';
 $_['entry_company']             = 'Denumire Firmă';
-$_['entry_tracking']            = 'Cod Urmărire';
+$_['entry_tracking']            = 'Cod de Urmărire';
 $_['entry_website']             = 'Site Web';
 $_['entry_commission']          = 'Comision (%)';
 $_['entry_tax']                 = 'Cod TVA';
@@ -55,22 +55,22 @@ $_['entry_bank_account_name']   = 'Nume Cont';
 $_['entry_bank_account_number'] = 'Număr Cont';
 $_['entry_comment']             = 'Comentariu';
 $_['entry_description']         = 'Descriere';
-$_['entry_amount']              = 'Suma';
+$_['entry_amount']              = 'Sumă';
 $_['entry_date_added']          = 'Data Adăugării';
 
 // Help
 $_['help_tracking']             = 'Codul de urmărire care va fi folosit pentru a urmări referințele.';
-$_['help_commission']           = 'Procentul pe care afiliatul il primește pe fiecare comandă.';
+$_['help_commission']           = 'Procentul acordat afiliatului pentru fiecare comandă.';
 
 // Error
 $_['error_warning']             = 'Avertizare: Verifică formularul pentru erori!';
 $_['error_permission']          = 'Avertizare: Nu ai permisiunea de a modifica afiliații!';
-$_['error_customer']            = 'Avertizare: Client obligatoriu!';
+$_['error_customer']            = 'Avertizare: Clientul este obligatoriu!';
 $_['error_already']             = 'Avertizare: Clientul este deja înregistrat ca afiliat!';
 $_['error_tracking']            = 'Codul de urmărire este obligatoriu!';
-$_['error_exists']              = 'Codul de urmărire este utilizat de un alt afiliat!';
-$_['error_cheque']              = 'Numele beneficiarului CEC este necesar!';
-$_['error_paypal']              = 'Adresa de E-Mail pentru PayPal nu pare a fi validă!';
-$_['error_bank_account_name']   = 'Nume cont necesar!';
-$_['error_bank_account_number'] = 'Număr cont necesar!';
+$_['error_exists']              = 'Codul de urmărire este folosit de un alt afiliat!';
+$_['error_cheque']              = 'Numele beneficiarului CEC este obligatoriu!';
+$_['error_paypal']              = 'Adresa de e-mail PayPal nu pare a fi validă!';
+$_['error_bank_account_name']   = 'Numele contului este obligatoriu!';
+$_['error_bank_account_number'] = 'Numărul contului este obligatoriu!';
 $_['error_custom_field']        = '%s este obligatoriu!';

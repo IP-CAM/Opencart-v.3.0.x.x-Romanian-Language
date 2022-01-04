@@ -22,7 +22,7 @@ $_['entry_status']      = 'Status';
 $_['entry_sort_order']  = 'Ordine sortare';
 
 // Help
-$_['help_locale']       = 'Exemplu: ro_RO.UTF-8,ro_RO,ro-ro,ro_ro,romana';
+$_['help_locale']       = 'Exemplu: ro_RO.UTF-8,ro_RO,ro-ro,ro_ro,romanian';
 $_['help_status']       = 'Ascunde/Arată în caseta de selectare a limbii';
 
 // Error
@@ -31,7 +31,7 @@ $_['error_exists']      = 'Avertizare: Ai adăugat deja această limbă!';
 $_['error_name']        = 'Numele limbii trebuie să aibă între 1 și 32 de caractere!';
 $_['error_code']        = 'Codul limbii trebuie să aibă între 2 și 5 caractere!';
 $_['error_locale']      = 'Codul de localizare este obligatoriu!';
-$_['error_default']     = 'Avertizare: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită ca limbă implicită a magazinului!';
-$_['error_admin']       = 'Avertizare: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită ca limbă implicită Panoului General!';
-$_['error_store']       = 'Avertizare: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită la %s magazine!';
-$_['error_order']       = 'Avertizare: Această limbă nu poate fi ștearsă, deoarece în prezent este atribuită la %s comenzi!';
+$_['error_default']     = 'Avertizare: Această limbă nu poate fi ștearsă deoarece în prezent este atribuită ca limbă implicită al magazinului!';
+$_['error_admin']       = 'Avertizare: Această limbă nu poate fi ștearsă deoarece în prezent este atribuită ca limbă implicită al Panoului General!';
+$_['error_store']       = 'Avertizare: Această limbă nu poate fi ștearsă deoarece în prezent este atribuită la %s magazine!';
+$_['error_order']       = 'Avertizare: Această limbă nu poate fi ștearsă deoarece în prezent este atribuită la %s comenzi!';

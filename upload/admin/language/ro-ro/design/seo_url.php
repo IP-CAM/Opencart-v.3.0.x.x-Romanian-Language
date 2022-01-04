@@ -11,25 +11,25 @@ $_['text_filter']          = 'Filtru';
 $_['text_default']         = 'Implicit';
 
 // Column
-$_['column_query']         = 'Query';
+$_['column_query']         = 'Interogare';
 $_['column_keyword']       = 'Cuvânt SEO';
 $_['column_store']         = 'Magazin';
 $_['column_language']      = 'Limbă';
 $_['column_action']        = 'Acțiune';
 
 // Entry
-$_['entry_query']          = 'Query';
+$_['entry_query']          = 'Interogare';
 $_['entry_keyword']        = 'Cuvânt SEO';
 $_['entry_store']          = 'Magazin';
 $_['entry_language']       = 'Limbă';
 
 // Help
-$_['help_keyword']         = 'Make sure you only use characters in the a-z or 0-9 use and - or _ for spaces. Leave blank if you just want to remove the perimeter.';
-$_['help_query']           = 'The URL query to replace.';
+$_['help_keyword']         = 'Asigură-te că utilizezi numai caractere din a-z sau 0-9 și - sau _ pentru spații. Lasă necompletat dacă dorești doar să elimini perimetrul.';
+$_['help_query']           = 'Interogarea URL care urmează să fie înlocuită.';
 
 // Error
 $_['error_permission']     = 'Avertizare: Nu ai permisiunea de a modifica URL-urile SEO!';
-$_['error_keyword']        = 'Keyword must be between 3 and 64 characters!';
-$_['error_keyword_exists'] = 'Keyword already in use!';
-$_['error_query']          = 'Query must be between 3 and 255 characters!';
-$_['error_query_exists']   = 'Query already in use!';
+$_['error_keyword']        = 'Cuvântul SEO trebuie să aibă între 3 și 64 de caractere!';
+$_['error_keyword_exists'] = 'Cuvântul SEO este deja folosit!';
+$_['error_query']          = 'Interogarea trebuie să aibă între 3 și 255 de caractere!';
+$_['error_query_exists']   = 'Interogarea este deja utilizată!';

@@ -18,5 +18,5 @@ $_['entry_name']       = 'Nume Status de Returnare';
 // Error
 $_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica statusurile de returnare!';
 $_['error_name']       = 'Numele Statusului de Returnare trebuie să aibă între 3 și 32 de caractere!';
-$_['error_default']    = 'Avertizare: Acest status de returnare nu poate fi șters, deoarece în prezent este atribuit ca status de returnare implicit!';
-$_['error_return']     = 'Avertizare: Acest status de retunare nu poate fi șters, deoarece în prezent este atribuit la %s returnări!';
+$_['error_default']    = 'Avertizare: Acest status de returnare nu poate fi șters deoarece în prezent este atribuit ca status de returnare implicit!';
+$_['error_return']     = 'Avertizare: Acest status de returnare nu poate fi șters deoarece în prezent este atribuit la %s returnări!';

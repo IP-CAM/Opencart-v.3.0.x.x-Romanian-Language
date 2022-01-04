@@ -16,7 +16,7 @@ $_['text_confirm']       = 'Sunteți sigur?';
 // Entry
 $_['entry_firstname']    = 'Prenume';
 $_['entry_lastname']     = 'Nume';
-$_['entry_company']      = 'Date Firmă';
+$_['entry_company']      = 'Denumire Firmă';
 $_['entry_address_1']    = 'Adresa 1';
 $_['entry_address_2']    = 'Adresa 2';
 $_['entry_postcode']     = 'Cod Poștal';

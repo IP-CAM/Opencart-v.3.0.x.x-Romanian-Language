@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']        = 'Mail';
+$_['heading_title']        = 'E-Mail';
 
 // Text
+$_['text_mail']            = 'Trimite e-mail clienților';
 $_['text_success']         = 'Mesajul tău a fost trimis cu succes!';
 $_['text_sent']            = 'Mesajul tău a fost trimis la %s din %s destinatari!';
-$_['text_list']            = 'Listă Mail';
 $_['text_default']         = 'Implicit';
 $_['text_newsletter']      = 'Toți abonații la Newsletter';
 $_['text_customer_all']    = 'Toți clienții';

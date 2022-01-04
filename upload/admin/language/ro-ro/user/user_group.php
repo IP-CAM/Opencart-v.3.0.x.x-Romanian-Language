@@ -4,9 +4,9 @@ $_['heading_title']    = 'Grupuri de utilizatori';
 
 // Text
 $_['text_success']     = 'Succes: Ai modificat grupurile de utilizatori!';
-$_['text_list']        = 'Grup de utilizatori';
-$_['text_add']         = 'Adăugare Grup utilizatori';
-$_['text_edit']        = 'Editare  Grup utilizatori';
+$_['text_list']        = 'Listă Grupuri de utilizatori';
+$_['text_add']         = 'Adăugare Grup de utilizatori';
+$_['text_edit']        = 'Editare  Grup de utilizatori';
 
 // Column
 $_['column_name']      = 'Nume Grup utilizatori';

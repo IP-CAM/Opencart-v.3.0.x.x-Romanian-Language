@@ -24,4 +24,4 @@ $_['entry_zone']         = 'Zona';
 $_['error_permission']   = 'Avertizare: Nu ai permisiunea de a modifica zonele geografice!';
 $_['error_name']         = 'Numele zonei geografice trebuie să aibă între 3 și 32 de caractere!';
 $_['error_description']  = 'Descrierea trebuie să aibă între 3 și 255 de caractere!';
-$_['error_tax_rate']     = 'Avertizare: Această zonă geografică nu poate fi ștearsă, deoarece este în prezent atribuită uneia sau mai multor cote de impozitare!';
+$_['error_tax_rate']     = 'Avertizare: Această zonă geografică nu poate fi ștearsă deoarece este în prezent atribuită uneia sau mai multor cote de impozitare!';

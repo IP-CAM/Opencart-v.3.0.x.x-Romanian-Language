@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']      = 'Anti-Fraud IP';
+$_['heading_title']      = 'Anti-Fraudă IP';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
-$_['text_edit']          = 'Edit Anti-Fraud IP';
-$_['text_ip_add']        = 'Add IP Address';
-$_['text_ip_list']       = 'Fraud IP Address List';
+$_['text_extension']     = 'Extensii';
+$_['text_success']       = 'Succes: Ai modificat modulul Anti-Fraudă IP!';
+$_['text_edit']          = 'Editare Anti-Fraudă IP';
+$_['text_ip_add']        = 'Adăugare Adresă IP';
+$_['text_ip_list']       = 'Listă Adrese IP';
 
 // Column
 $_['column_ip']          = 'IP';
-$_['column_total']       = 'Total Accounts';
-$_['column_date_added']  = 'Date Added';
+$_['column_total']       = 'Total conturi';
+$_['column_date_added']  = 'Data Adăugării';
 $_['column_action']      = 'Acțiune';
 
 // Entry
 $_['entry_ip']           = 'IP';
 $_['entry_status']       = 'Status';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_order_status'] = 'Status comandă';
 
 // Help
-$_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
+$_['help_order_status']  = 'Clienții care au un IP banat în contul lor li se va atribui acest status de comandă și nu li se va permite să finalizeze comanda.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';
+$_['error_permission']   = 'Avertizare: Nu ai permisiunea de a modifica modulul Anti-Fraudă IP!';

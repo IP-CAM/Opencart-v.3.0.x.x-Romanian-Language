@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Download-uri';
 
 // Text
-$_['text_success']      = 'Succes: Ai modificat descărcările!';
+$_['text_success']      = 'Succes: Ai modificat download-urile!';
 $_['text_list']         = 'Listă Download-uri';
 $_['text_add']          = 'Adăugare Download';
 $_['text_edit']         = 'Editare Download';
@@ -27,7 +27,7 @@ $_['help_mask']         = 'Este recomandat ca numele fişierului şi masca să f
 $_['error_warning']     = 'Avertizare: Verifică formularul pentru erori!';
 $_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica download-urile!';
 $_['error_name']        = 'Numele download-ului trebuie să aibă între 3 și 64 de caractere!';
-$_['error_upload']      = 'Upload required!';
+$_['error_upload']      = 'Încărcarea este obligatorie!';
 $_['error_filename']    = 'Numele fișierului trebuie să aibă între 3 și 128 de caractere!';
 $_['error_exists']      = 'Fișierul nu există!';
 $_['error_mask']        = 'Masca trebuie să aibă între 3 și 128 de caractere!';

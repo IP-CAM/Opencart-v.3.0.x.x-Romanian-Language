@@ -14,7 +14,7 @@ $_['text_success']              = 'Succes: Contul dvs. a fost actualizat.';
 $_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="modal-link"><b>%s</b></a>';
 
 // Entry
-$_['entry_company']             = 'Date Firmă';
+$_['entry_company']             = 'Denumire Firmă';
 $_['entry_website']             = 'Site web';
 $_['entry_tax']                 = 'CNP/CUI';
 $_['entry_payment']             = 'Metoda de plată';

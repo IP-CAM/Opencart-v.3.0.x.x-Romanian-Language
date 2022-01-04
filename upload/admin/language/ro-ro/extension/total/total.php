@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Total';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified total totals!';
-$_['text_edit']        = 'Edit Total Total';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat extensia Total!';
+$_['text_edit']        = 'Editare Total';
 
 // Entry
 $_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Ordine Sortare';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify total totals!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica extensia Total!';

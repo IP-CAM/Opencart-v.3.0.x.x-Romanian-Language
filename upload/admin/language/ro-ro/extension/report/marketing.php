@@ -24,4 +24,4 @@ $_['entry_status']       = 'Status';
 $_['entry_sort_order']   = 'Ordine Sortare';
 
 // Error
-$_['error_permission']    = 'Avertizare: Nu ai persiunea de a modifica raportul Marketing!';
+$_['error_permission']   = 'Avertizare: Nu ai persiunea de a modifica raportul Marketing!';

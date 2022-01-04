@@ -29,4 +29,4 @@ $_['entry_sort_order']             = 'Ordine Sortare';
 $_['entry_width']                  = 'Lățime';
 
 // Error
-$_['error_permission']             = 'Avertisment: Nu ai permisiunea de a modifica panoul Activitate recentă!';
+$_['error_permission']             = 'Avertizare: Nu ai permisiunea de a modifica panoul Activitate recentă!';

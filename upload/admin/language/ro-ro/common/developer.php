@@ -6,7 +6,7 @@ $_['heading_title']    = 'Setări Dezvoltatori';
 $_['text_success']     = 'Succes: Ai modificat setările pentru dezvoltatori!';
 $_['text_theme']       = 'Temă';
 $_['text_sass']        = 'SASS';
-$_['text_cache']       = 'Success: Ai șters memoria cache pentru %s!';
+$_['text_cache']       = 'Succes: Ai șters memoria cache pentru %s!';
 
 // Column
 $_['column_component'] = 'Componentă';

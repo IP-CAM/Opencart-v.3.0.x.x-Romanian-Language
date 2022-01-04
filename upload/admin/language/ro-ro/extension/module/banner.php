@@ -10,7 +10,6 @@ $_['text_edit']        = 'Editare modul Baner';
 // Entry
 $_['entry_name']       = 'Nume Modul';
 $_['entry_banner']     = 'Baner';
-$_['entry_dimension']  = 'Dimensiune (L x Î) și Tipul de redimensionare';
 $_['entry_width']      = 'Lățime';
 $_['entry_height']     = 'Înălțime';
 $_['entry_status']     = 'Status';

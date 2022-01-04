@@ -3,16 +3,16 @@
 $_['heading_title']    = 'Fixer';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified fixer currency rates!';
-$_['text_edit']        = 'Edit Fixer';
-$_['text_signup']      = 'Fixer.io is a currency conversion service <a href="https://fixer.io/" target="_blank" class="alert-link">signup here</a>.';
-$_['text_support']     = 'This extension Requires at EUR currency to be available currency option.';
+$_['text_extension']   = 'Extensii';
+$_['text_success']     = 'Succes: Ai modificat convertorul valutar Fixer!';
+$_['text_edit']        = 'Editare Fixer';
+$_['text_signup']      = 'Fixer.io este un serviciu de conversie valutară care se <a href="https://fixer.io/" target="_blank" class="alert-link">înregistrează aici</a>.';
+$_['text_support']     = 'Această extensie necesită ca moneda EUR să fie disponibilă în lista de valute.';
 
 // Entry
-$_['entry_api']        = 'API Access Key';
+$_['entry_api']        = 'Cheie de acces API';
 $_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify fixer currency rates!';
-$_['error_api']        = 'API Access Key required!';
+$_['error_permission'] = 'Avertizare: Nu ai permisiunea de a modifica convertorul valutar Fixer!';
+$_['error_api']        = 'Cheia de acces API este obligatorie!';

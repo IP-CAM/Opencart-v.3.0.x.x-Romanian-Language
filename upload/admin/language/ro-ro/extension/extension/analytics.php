@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Analiză';
 
 // Text
-$_['text_success']     = 'Succes: Ai modifica extensiile de analiză!';
+$_['text_success']     = 'Succes: Ai modificat extensiile de analiză!';
 
 // Column
 $_['column_name']      = 'Nume';

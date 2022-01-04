@@ -7,7 +7,7 @@ $_['text_account']         = 'Cont';
 $_['text_register']        = 'Înregistrare';
 $_['text_account_already'] = 'Dacă aveți deja un cont la noi, vă puteți autentifica <a href="%s">aici</a>.';
 $_['text_your_details']    = 'Detalii personale';
-$_['text_your_address']    = 'Your Address';
+$_['text_your_address']    = 'Adresele tale';
 $_['text_newsletter']      = 'Newsletter';
 $_['text_your_password']   = 'Parola dvs.';
 $_['text_agree']           = 'Am citit și sunt de acord cu <a href="%s" class="modal-link"><b>%s</b></a>';

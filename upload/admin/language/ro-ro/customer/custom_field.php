@@ -29,6 +29,7 @@ $_['text_value']           = 'Valori Câmp personalizat';
 $_['column_name']          = 'Nume Câmp personalizat';
 $_['column_location']      = 'Locație';
 $_['column_type']          = 'Tip';
+$_['column_status']        = 'Status';
 $_['column_sort_order']    = 'Ordine Sortare';
 $_['column_action']        = 'Acțiune';
 

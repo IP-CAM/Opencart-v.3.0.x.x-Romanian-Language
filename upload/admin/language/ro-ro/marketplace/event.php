@@ -7,7 +7,7 @@ $_['text_success']      = 'Succes: Ai modificat evenimentele!';
 $_['text_list']         = 'Listă Evenimente';
 $_['text_event']        = 'Evenimentele sunt folosite de extensii pentru a suprascrie funcționalitatea implicită a magazinului. Dacă ai probleme, poți dezactiva sau activa evenimentele aici.';
 $_['text_info']         = 'Informații Eveniment';
-$_['text_trigger']      = 'Declanșare';
+$_['text_trigger']      = 'Declanșator';
 $_['text_action']       = 'Acțiune';
 
 // Column

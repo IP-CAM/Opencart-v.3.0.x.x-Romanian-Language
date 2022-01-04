@@ -5,8 +5,8 @@ $_['heading_title']        = 'Returnări produse';
 // Text
 $_['text_success']         = 'Succes: Ai modificat returnările!';
 $_['text_list']            = 'Listă Returnări produse';
-$_['text_add']             = 'Adăugare Retur produs';
-$_['text_edit']            = 'Editare Retur produs';
+$_['text_add']             = 'Adăugare Returnare produs';
+$_['text_edit']            = 'Editare Returnare produs';
 $_['text_opened']          = 'Deschis';
 $_['text_unopened']        = 'Sigilat';
 $_['text_order']           = 'Informații comandă';

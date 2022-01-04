@@ -8,7 +8,6 @@ $_['text_store']     = 'Magazinele noastre';
 $_['text_contact']   = 'Formular contact';
 $_['text_address']   = 'Adresă';
 $_['text_telephone'] = 'Telefon';
-$_['text_fax']       = 'Fax';
 $_['text_open']      = 'Program magazin';
 $_['text_comment']   = 'Comentarii';
 $_['text_message']   = '<p>Mesajul dvs. a fost trimis cu succes către administratorul magazinului!</p>';

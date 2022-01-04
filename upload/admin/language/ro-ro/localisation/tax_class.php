@@ -29,4 +29,4 @@ $_['entry_priority']    = 'Prioritate';
 $_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica clasele de taxe!';
 $_['error_title']       = 'Titlul Clasei de taxe trebuie să aibă între 3 și 32 de caractere!';
 $_['error_description'] = 'Descrierea trebuie să aibă între 3 și 255 de caractere!';
-$_['error_product']     = 'Avertizare: Această clasă de taxe nu poate fi ștearsă, deoarece în prezent este atribuită la %s produse!';
+$_['error_product']     = 'Avertizare: Această clasă de taxe nu poate fi ștearsă deoarece în prezent este atribuită la %s produse!';

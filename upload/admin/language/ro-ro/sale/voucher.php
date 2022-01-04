@@ -7,6 +7,7 @@ $_['text_success']      = 'Succes: Ai modificat voucherele!';
 $_['text_list']         = 'Listă vouchere cadou';
 $_['text_add']          = 'Adăugare Voucher';
 $_['text_edit']         = 'Editare Voucher';
+$_['text_sent']         = 'Succes: A fost trimis un e-mail cu voucherul cadou!';
 
 // Column
 $_['column_name']       = 'Nume voucher';
