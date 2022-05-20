@@ -60,6 +60,7 @@ $_['text_commission_removed']    = 'Succes: Comision eliminat!';
 $_['text_restock']               = 'Succes: Produsele au revenit în stoc!';
 $_['text_upload']                = 'Fișierul tău a fost încărcat cu succes!';
 $_['text_picklist']              = 'Notă de livrare';
+$_['text_not_generated']         = 'Nu a fost generată';
 
 // Column
 $_['column_order_id']            = 'ID Comandă';
