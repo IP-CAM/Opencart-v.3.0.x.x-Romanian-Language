@@ -132,6 +132,8 @@ $_['entry_error_log']                = 'Jurnal de Erori';
 $_['entry_error_filename']           = 'Nume fișier Jurnal de erori';
 $_['entry_status']                   = 'Status';
 $_['entry_editor_default']           = 'Editor implicit';
+$_['entry_order_email']              = 'E-mail Comenzi';
+$_['entry_contact_email']            = 'E-mail Contact';
 
 // Help
 $_['help_geocode']                   = 'Introdu manual codul geografic al magazinului.';
