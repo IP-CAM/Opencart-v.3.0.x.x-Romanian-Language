@@ -8,9 +8,14 @@ $_['text_list']         = 'Listă Download-uri';
 $_['text_add']          = 'Adăugare Download';
 $_['text_edit']         = 'Editare Download';
 $_['text_upload']       = 'Fişierul tău a fost încărcat cu succes!';
+$_['text_report']       = 'Raport';
 
 // Column
 $_['column_name']       = 'Nume Download';
+$_['column_ip']         = 'IP';
+$_['column_account']    = 'Conturi';
+$_['column_store']      = 'Magazin';
+$_['column_country']    = 'Țara';
 $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
 
