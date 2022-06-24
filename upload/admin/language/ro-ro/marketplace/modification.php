@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Modificări OCMOD';
 
 // Text
-$_['text_success']      = 'Succes: Ai modificat You have modified modifications!';
-$_['text_refresh']      = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
+$_['text_success']      = 'Succes: Ai modificat Modificările OCMOD!';
+$_['text_refresh']      = 'Ori de câte ori activezi/dezactivezi sau ștergi o modificare OCMOD, trebuie să dai clic pe butonul „Reîmprospătează” pentru a reconstrui memoria cache a Modificărilor OCMOD!';
 $_['text_list']         = 'Listă Modificări OCMOD';
 
 // Column
@@ -16,4 +16,4 @@ $_['column_date_added'] = 'Data Adăugării';
 $_['column_action']     = 'Acțiune';
 
 // Error
-$_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica modificările OCMOD!';
+$_['error_permission']  = 'Avertizare: Nu ai permisiunea de a modifica Modificările OCMOD!';
