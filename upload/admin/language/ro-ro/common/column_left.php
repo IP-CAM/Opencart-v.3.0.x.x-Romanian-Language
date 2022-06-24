@@ -74,5 +74,5 @@ $_['text_zone']                 = 'Zone';
 $_['text_recurring']            = 'Abonamente';
 $_['text_order_recurring']      = 'Abonamente Comenzi';
 $_['text_complete_status']      = 'Comenzi finalizate';
-$_['text_processing_status']    = 'Comenzi în procesare';
+$_['text_processing_status']    = 'Comenzi în așteptare';
 $_['text_other_status']         = 'Alte statusuri';
