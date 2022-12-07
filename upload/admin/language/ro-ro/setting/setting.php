@@ -70,6 +70,7 @@ $_['entry_review']                   = 'Permite Opinii';
 $_['entry_review_guest']             = 'Permite vizitatorilor neînregistrați să posteze opinii';
 $_['entry_voucher_min']              = 'Valoarea minimă a unui Voucher';
 $_['entry_voucher_max']              = 'Valoarea maximă a unui Voucher';
+$_['entry_cookie']                   = 'Politica Cookie';
 $_['entry_gdpr']                     = 'Politica GDPR';
 $_['entry_gdpr_limit']               = 'Limită GDPR';
 $_['entry_tax']                      = 'Afișează prețurile cu Taxe';
