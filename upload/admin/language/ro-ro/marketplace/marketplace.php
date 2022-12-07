@@ -75,3 +75,4 @@ $_['error_opencart']     = 'Avertizare: Trebuie să introduci informațiile API 
 $_['error_install']      = 'Instalarea extensiei este în curs, așteaptă câteva secunde înainte de a instala o altă extensie!';
 $_['error_purchase']     = 'Extensia nu poate fi cumpărată!';
 $_['error_download']     = 'Extensia nu poate fi descărcată!';
+$_['error_signature']    = 'Hash-ul semnăturii nu se potrivește!';
