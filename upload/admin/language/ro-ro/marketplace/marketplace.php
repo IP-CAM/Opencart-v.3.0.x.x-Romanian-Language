@@ -71,7 +71,7 @@ $_['button_reply']       = 'Răspunde';
 
 // Error
 $_['error_permission']   = 'Avertizare: Nu ai permisiunea de a modifica extensiile!';
-$_['error_opencart']     = 'Avertizare: Trebuie să introduci informațiile API OpenCart API înainte de a putea face orice achiziție!';
+$_['error_opencart']     = 'Avertizare: Trebuie să introduci informațiile API OpenCart înainte de a putea face orice achiziție!';
 $_['error_install']      = 'Instalarea extensiei este în curs, așteaptă câteva secunde înainte de a instala o altă extensie!';
 $_['error_purchase']     = 'Extensia nu poate fi cumpărată!';
 $_['error_download']     = 'Extensia nu poate fi descărcată!';
