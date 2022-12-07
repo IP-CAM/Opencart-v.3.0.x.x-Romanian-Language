@@ -7,12 +7,12 @@ $_['text_success']          = 'Succes: Ai modificat abonamentele!';
 $_['text_list']             = 'Listă abonamente';
 $_['text_add']              = 'Adăugare Abonament';
 $_['text_edit']             = 'Editare Abonament';
-$_['text_day']              = 'Zi';
-$_['text_week']             = 'Săptămână';
-$_['text_semi_month']       = 'Jumătate de lună';
-$_['text_month']            = 'Lună';
-$_['text_year']             = 'An';
-$_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Plățile periodice sunt calculate în funcție de frecvență și cicluri.</p><p>De exemplu dacă folosești frecvența „săptămână” și ciclu „2”, atunci utilizatorul va plăti la fiecare 2 săptămâni.</p><p>Durata este numărul de câte ori utilizatorul va efectua o plată, setează 0 dacă dorești să primești plăți până când acestea sunt anulate.</p>';
+$_['text_day']              = 'zilnic';
+$_['text_week']             = 'săptămânal';
+$_['text_semi_month']       = 'semilunar';
+$_['text_month']            = 'lunar';
+$_['text_year']             = 'anual';
+$_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Plățile periodice sunt calculate în funcție de frecvență și cicluri.</p><p>De exemplu dacă folosești frecvența „săptămânal” și ciclu „2”, atunci utilizatorul va plăti la fiecare 2 săptămâni.</p><p>Durata este numărul de câte ori utilizatorul va efectua o plată, setează 0 dacă dorești să primești plăți până când acestea sunt anulate.</p>';
 $_['text_profile']          = 'Abonament';
 $_['text_trial']            = 'Perioadă de probă';
 
