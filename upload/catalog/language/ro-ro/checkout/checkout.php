@@ -91,3 +91,4 @@ $_['error_no_shipping']              = 'Avertizare: Nu sunt disponibile metode d
 $_['error_payment']                  = 'Avertizare: Metoda de plată este obligatorie!';
 $_['error_no_payment']               = 'Avertizare: Nu sunt disponibile metode de plată. Vă rugăm să ne <a href="%s">contactați</a> pentru asistență!';
 $_['error_custom_field']             = '%s este obligatoriu!';
+$_['error_regex']                    = '%s nu este o intrare validă!';

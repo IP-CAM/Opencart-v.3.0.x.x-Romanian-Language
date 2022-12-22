@@ -36,3 +36,4 @@ $_['error_city']         = 'Orașul trebuie să aibă între 2 și 128 de caract
 $_['error_country']      = 'Selectați o țară!';
 $_['error_zone']         = 'Selectați un județ!';
 $_['error_custom_field'] = '%s este obligatoriu!';
+$_['error_regex']        = '%s nu este o intrare validă!';

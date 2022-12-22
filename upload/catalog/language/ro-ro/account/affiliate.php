@@ -33,3 +33,4 @@ $_['error_paypal']              = 'Adresa de e-mail PayPal nu pare a fi validă!
 $_['error_bank_account_name']   = 'Numele contului este obligatoriu!';
 $_['error_bank_account_number'] = 'Numărul contului este obligatoriu!';
 $_['error_custom_field']        = '%s este obligatoriu!';
+$_['error_regex']               = '%s nu este o intrare validă!';
