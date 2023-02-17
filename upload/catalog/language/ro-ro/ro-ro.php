@@ -36,7 +36,7 @@ $_['text_years_ago']        = '%s ani în urmă';
 
 // Buttons
 $_['button_address_add']    = 'Adaugă Adresă';
-$_['button_back']           = 'Îmapoi';
+$_['button_back']           = 'Înapoi';
 $_['button_continue']       = 'Continuă';
 $_['button_cart']           = 'Adaugă în Coș';
 $_['button_cancel']         = 'Anulează';
