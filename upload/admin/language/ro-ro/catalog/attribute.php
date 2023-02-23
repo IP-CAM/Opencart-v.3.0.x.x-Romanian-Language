@@ -22,6 +22,6 @@ $_['entry_sort_order']       = 'Ordine Sortare';
 // Error
 $_['error_warning']          = 'Avertizare: Verifică formularul pentru erori!';
 $_['error_permission']       = 'Avertizare: Nu ai permisiunea de a modifica atributele!';
-$_['error_attribute_group']  = 'Grubul atributului este obligatoriu!';
+$_['error_attribute_group']  = 'Grupul atributului este obligatoriu!';
 $_['error_name']             = 'Numele atributului trebuie să aibă între 1 și 64 de caractere!';
 $_['error_product']          = 'Avertizare: Acest atribut nu poate fi șters deoarece este atribuit în prezent la %s produse!';
