@@ -5,7 +5,7 @@ $_['heading_title']   = 'Parolă uitată?';
 // Text
 $_['text_forgotten']  = 'Parolă uitată';
 $_['text_your_email'] = 'Adresa de e-mail';
-$_['text_email']      = 'Introdu adresa de e-mail asociată contului tău. Apasă pe Trimite pentru a primi pe e-mail un link de resetare a parolei.';
+$_['text_email']      = 'Introdu adresa de e-mail asociată contului tău. Apasă pe Resetează pentru a primi pe e-mail un link de resetare a parolei.';
 $_['text_success']    = 'Un e-mail cu un link de confirmare a fost trimis pe adresa ta de e-mail.';
 
 // Entry
