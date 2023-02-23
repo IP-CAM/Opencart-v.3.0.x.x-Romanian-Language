@@ -25,7 +25,7 @@ $_['entry_filename']    = 'Nume fișier';
 $_['entry_mask']        = 'Mască';
 
 // Help
-$_['help_filename']     = 'Poţi încărca prin butonul de Upload sau utilizează FTP pentru a încărca în folderul download şi introdu detaliile de mai jos.';
+$_['help_filename']     = 'Poţi încărca folosind butonul Încarcă, sau utilizează FTP pentru a încărca în folderul Download, apoi introdu detaliile mai jos.';
 $_['help_mask']         = 'Este recomandat ca numele fişierului şi masca să fie diferite pentru a bloca accesul prin link direct la download-uri.';
 
 // Error
