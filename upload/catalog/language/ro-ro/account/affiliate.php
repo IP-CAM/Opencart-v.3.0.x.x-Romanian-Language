@@ -11,7 +11,7 @@ $_['text_cheque']               = 'CEC bancar / Ordin de plată';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Transfer Bancar';
 $_['text_success']              = 'Succes: Contul dvs. a fost actualizat.';
-$_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_company']             = 'Denumire Firmă';

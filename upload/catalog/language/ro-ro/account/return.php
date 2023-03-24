@@ -19,7 +19,7 @@ $_['text_date_added']    = 'Data Adăugării:';
 $_['text_comment']       = 'Comentarii returnare';
 $_['text_history']       = 'Istoric returnare';
 $_['text_empty']         = 'Nu ați făcut nicio returnare anterioară!';
-$_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_agree']         = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Column
 $_['column_return_id']   = 'ID Returnare';

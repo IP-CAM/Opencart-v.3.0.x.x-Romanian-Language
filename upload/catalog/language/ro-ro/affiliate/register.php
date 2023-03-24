@@ -14,7 +14,7 @@ $_['text_your_password']        = 'Parolă';
 $_['text_cheque']               = 'CEC';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Transfer bancar';
-$_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_agree']                = 'Am citit și sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_customer_group']      = 'Grupul de clienți';
