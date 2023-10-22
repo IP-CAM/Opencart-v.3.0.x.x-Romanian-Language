@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                = 'Activitate clienți';
+$_['heading_title']                = 'Activitatea Clienților';
 
 // Text
 $_['text_extension']               = 'Extensii';
