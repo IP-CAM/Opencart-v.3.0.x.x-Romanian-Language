@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Găsiți producătorul favorit';
+$_['heading_title']    = 'Listă Poducători';
 
 // Text
 $_['text_brand']       = 'Producător';
