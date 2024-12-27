@@ -13,7 +13,7 @@ $_['text_guest']        = 'Oaspete';
 $_['column_ip']         = 'IP';
 $_['column_customer']   = 'Client';
 $_['column_url']        = 'Ultima pagină vizitată';
-$_['column_referer']    = 'Refer';
+$_['column_referer']    = 'Sursă';
 $_['column_date_added'] = 'Ultimul click';
 $_['column_action']     = 'Acțiune';
 
